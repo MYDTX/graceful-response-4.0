@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.feiniaojin</groupId>
+    <groupId>io.github.mydtx</groupId>
     <artifactId>graceful-response</artifactId>
-    <version>4.0.0-SNAPSHOT</version>
+    <version>4.0.0</version>
     <packaging>jar</packaging>
     <name>Graceful Response</name>
     <description>Help Spring Boot 4 web project responses gracefully!</description>
-    <url>https://github.com/feiniaojin/graceful-response.git</url>
+    <url>https://github.com/MYDTX/graceful-response-4.0</url>
 
     <licenses>
         <license>
@@ -20,16 +20,16 @@
         </license>
     </licenses>
     <scm>
-        <tag>master</tag>
-        <url>https://github.com/feiniaojin/graceful-response.git</url>
-        <connection>https://github.com/feiniaojin/graceful-response.git</connection>
-        <developerConnection>https://github.com/feiniaojin/graceful-response.git</developerConnection>
+        <tag>main</tag>
+        <url>https://github.com/MYDTX/graceful-response-4.0</url>
+        <connection>scm:git:git://github.com/MYDTX/graceful-response-4.0.git</connection>
+        <developerConnection>scm:git:ssh://github.com:MYDTX/graceful-response-4.0.git</developerConnection>
     </scm>
     <developers>
         <developer>
-            <name>feiniaojin</name>
-            <email>943868899@qq.com</email>
-            <organization>free</organization>
+            <name>liuxiaokang</name>
+            <email>1331369437@qq.com</email>
+            <organization>S365</organization>
         </developer>
     </developers>
 
